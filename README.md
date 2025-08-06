@@ -82,9 +82,10 @@ We analyzed misclassified cases and observed:
 
 ## 👥 Team Members
 
-- Tanish Aggarwal(Leader) – Model Training, Dataset Prep, GitHub Management
-- Yash Goel - App/web Development
+- Anshika Tyagi(Leader) –  App/web Development
+- Tanish Aggarwal - Model Training, Dataset Prep, GitHub Management
 - Chakshu Arora - Overall Management
+- Mukul Negi - Backend Developer
 
 ---
 
