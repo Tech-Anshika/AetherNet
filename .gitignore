@@ -5,3 +5,4 @@ ios/Pods
 *.lock
 .env
 .expo
+DETECT-X/
