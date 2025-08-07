@@ -2,7 +2,6 @@
 
 **Advanced AI System for Spacecraft Safety Management**
 
-[ [![YOLOv8](https://img.shields.io/adge/mAP@verview
 
 **DetectX** is a cutting-edge dual-brain AI solution that revolutionizes spacecraft safety through:
 - **High-precision object detection** using YOLOv8-Large trained on synthetic Falcon dataset
